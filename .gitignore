@@ -17,3 +17,4 @@ public/
 .vuepress/*/*/.DS_Store
 .vuepress/*/*/*/.DS_Store
 .vuepress/*/*/*/*/.DS_Store
+.vercel
