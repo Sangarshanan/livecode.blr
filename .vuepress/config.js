@@ -1,5 +1,9 @@
 const Settings = require("../global_settings.js");
 
+const feedOptions = {
+  canonical_base: "https://creative-coding-india.vercel.app/",
+}
+
 module.exports = {
   base: '/',
   title: Settings.title,
@@ -23,5 +27,9 @@ module.exports = {
       permalinkSymbol: ""
     }
   },
+
+  plugins: [
+    [ "feed", feedOptions ],
+  ],
 
 };
