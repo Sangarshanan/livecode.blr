@@ -1,0 +1,19 @@
+.DS_Store
+yarn.lock
+node_modules/
+# in case dist is set as dest folder
+dist/
+# exclude public to prevent local
+# build process from being pushed
+public/
+# don't exclude public folder in .vuepress
+!.vuepress/*
+!.vuepress/public/
+!.vuepress/public/**
+# yikes... please please
+# don't keep .DS_Stores
+.vuepress/.DS_Store
+.vuepress/*/.DS_Store
+.vuepress/*/*/.DS_Store
+.vuepress/*/*/*/.DS_Store
+.vuepress/*/*/*/*/.DS_Store

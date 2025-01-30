@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap");
+
+:root {
+  --padding: 1.2rem;
+
+  --green: rgba(153, 255, 0, 1);
+  --purple: rgb(143, 73, 135);
+
+  --color: var(--purple);
+
+  --black: #050407;
+  --white: #fefefe;
+  --gray: #6b6b6b;
+
+  --text: var(--white);
+  --background: var(--black);
+}
+::selection {
+  background: var(--white);
+  color: var(--black);
+  text-shadow: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  margin-left: 1em;
+}
+
+html {
+  font-size: 19.2px;
+}
+body {
+  background-color: var(--background);
+  color: var(--text);
+
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+  letter-spacing: 0.1pt;
+  line-height: 1.5;
+}
+
+@media screen and (min-width: 1200px) {
+  /* body {
+    font-size: 2vw;
+  } */
+}
+@media screen and (max-width: 900px) {
+  body {
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 700px) {
+  body {
+    font-size: 0.9rem;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+}
+
+h1 {
+  font-weight: inherit;
+  font-size: inherit;
+  border-bottom: 1px solid var(--gray);
+  margin: 1em 0;
+}
+h1:first-of-type {
+  margin-top: 0;
+}
+
+div.content {
+  padding: var(--padding);
+}
+div.content p {
+  padding-bottom: 1rem;
+  max-width: 40em;
+}
+div.content p:last-child {
+  padding-bottom: 0;
+}
+
+div.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+/* DUMB VUEPRESS OVERRIDE */
+svg.icon.outbound {
+  display: none;
+}
+
+div.table-of-contents:before {
+  content: "Table of Contents";
+  color: var(--text);
+}
+div.table-of-contents ul {
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+div.table-of-contents ul li a {
+  color: var(--text);
+}
+
+.mono {
+  font-family: "IBM Plex Mono", Menlo, monospace;
+}
+
+div.basic-page .content__default {
+  color: var(--text);
+}
+div.basic-page .content__default a,
+a.underline {
+  color: inherit;
+  border-bottom: 1px solid var(--gray);
+}
+div.basic-page .content__default a:hover,
+a.underline:hover {
+  color: var(--color);
+  border-bottom-color: var(--color);
+}
+
+div.basic-page .content__default li {
+  list-style: square;
+}
+div.basic-page .content__default li li {
+  list-style: disc;
+}
+div.basic-page .content__default li li li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+div.basic-page .content__default li li li:before {
+  content: "+ ";
+}
+
+div.basic-page .content__default p {
+  margin-bottom: 1.5rem;
+}

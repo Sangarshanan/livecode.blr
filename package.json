@@ -1,0 +1,30 @@
+{
+  "name": "ccjams-vuepress",
+  "version": "0.0.0",
+  "description": "ccjams website built with VuePress",
+  "keywords": [],
+  "homepage": "https://github.com/sangarshanan",
+  "bugs": {
+    "url": "https://github.com/sangarshanan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sangarshanan"
+  },
+  "license": "MIT",
+  "author": "Sangarshanan <sangarshanan@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "docs:start": "npm run dev",
+    "docs:build": "npm run build",
+    "calendar:build": "node buildCalendar.js"
+  },
+  "dependencies": {
+    "ics": "^2.35.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "yaml": "^2.1.0"
+  }
+}
