@@ -7,17 +7,16 @@
         });
     </script>
 
+    <div class="pb .content__default">
+      <Content :page-key="about.key" />
+    </div>
+
     <div
       style="display:inline-block;margin-bottom:var(--padding);border:2px solid var(--color);border-radius:calc(var(--padding)*0.25);padding:var(--padding);"
     >
       <b style="color:var(--color);">Are you a creative coder from India?</b>
-      Add yourself to the registry!!
-      <a :href="this.$themeConfig.discord" class="underline">Click here</a>
-      &hearts;
-    </div>
-
-    <div class="pb .content__default">
-      <Content :page-key="about.key" />
+      Add yourself to the registry
+        <a :href="'//' + 'airtable.com/app1ABXyx1mUnMWil/pagkTzx3OwNlxvCdC/form'" class="underline"> here!! </a>
     </div>
 
   </div>
