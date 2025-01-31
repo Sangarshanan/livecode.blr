@@ -1,6 +1,9 @@
 <template>
   <footer>
-    <div class="full"> </div>
+    <div class="full">
+      <p> Theme by Zach Krall from <a href="https://livecode.nyc">livecode.nyc </a> </p>
+      
+    </div>
   </footer>
 </template>
 
