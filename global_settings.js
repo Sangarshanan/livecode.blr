@@ -3,7 +3,7 @@ module.exports = {
   description: "Directory",
   discord: "https://discord.gg/mz2mtxWtJ5",
   navLinks: [
-    { path: "/members", title: "Members" },
+    { path: "/members.html", title: "Members" },
   ],
   repository: "https://github.com/sangarshanan/creative-coding-india"
 };
