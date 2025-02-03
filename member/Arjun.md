@@ -1,6 +1,6 @@
 ---
 name: Arjun
-tools: Digital Art
+tools: Digital Art,CustomSoftware
 location: Bengaluru
 image: https://raw.githubusercontent.com/arjunmakesthings/arjunmakesthings.github.io/refs/heads/main/assets/profile-picture.jpg
 links:
