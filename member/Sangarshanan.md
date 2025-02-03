@@ -1,5 +1,5 @@
 ---
-name: roguentropy
+name: Sangarshanan
 tools: Sonic Pi
 location: Bengaluru
 image: https://i1.sndcdn.com/avatars-77lySZqx1jirX5zS-Zyzpdg-t500x500.jpg
