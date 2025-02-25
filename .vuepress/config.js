@@ -1,7 +1,7 @@
 const Settings = require("../global_settings.js");
 
 const feedOptions = {
-  canonical_base: "https://creative-coding-india.vercel.app/",
+  canonical_base: "https://livecode-blr.vercel.app/",
 }
 
 module.exports = {

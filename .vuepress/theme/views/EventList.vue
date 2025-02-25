@@ -6,8 +6,6 @@
     </script>
     <h1>
     Upcoming Events
-    <Pill color="#444444" src="/calendar.ics">Add to Local Calendar</Pill>
-    <Pill color="#444444" src="webcal://randomass-event/calendar.ics">Add to Web-based Calendar</Pill>
     </h1>
     <div id="upcomingEvents">
       <a

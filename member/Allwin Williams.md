@@ -9,4 +9,3 @@ links:
 ---
 
 Designer with a focus on interactions and exploring fun musical interfaces
-

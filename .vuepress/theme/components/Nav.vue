@@ -12,7 +12,7 @@
         <a :href="link.path">{{ link.title }}</a>
       </li>
       <li class="link">
-        <a :href="'//' + 'algorave.in'" target="_blank"> Algorave </a>
+        <a :href="'//' + 'algorave.in'" target="_blank"> Algorave India </a>
       </li>
     </ul>
     <!-- TODO: figure out vue onclick stuff doesn't work, maybe client hydration? https://vuejs.org/guide/scaling-up/ssr.html#client-hydration -->

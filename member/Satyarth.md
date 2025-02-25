@@ -5,7 +5,7 @@ location: Pune
 image: http://satyarth.me/cactus-juice/powerhouse.jpg
 links:
     instagram: https://www.instagram.com/420.booty.wizard/
-    website: satyarth.me
+    website: https://satyarth.me
 ---
 
 Researcher in ML, also do a bunch of creative coding stuff

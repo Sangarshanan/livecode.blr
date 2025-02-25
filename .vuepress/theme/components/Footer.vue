@@ -1,12 +1,21 @@
 <template>
   <footer>
-    <div class="full">
-      <p> Theme by Zach Krall from <a href="https://livecode.nyc">livecode.nyc </a> </p>
-      
+    <div>
+      <h3>Social</h3>
+      <ul>
+        <a href="https://instagram.com/livecode.blr">Instagram</a>
+      </ul>
+    </div>
+    <div>
+      <h3>Site</h3>
+      <ul>
+        <li><a href="https://github.com/Sangarshanan/livecode.blr/issues/new?template=Blank+issue">Report Issue with Site</a></li>
+        <li><a href="https://vuepress.vuejs.org">Built with VuePress</a></li>
+        <li><a href="https://zachkrall.com">Theme by Zach Krall</a></li>
+      </ul>
     </div>
   </footer>
 </template>
-
 <script>
 export default {
   name: "Footer",
