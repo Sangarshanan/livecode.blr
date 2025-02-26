@@ -7,9 +7,8 @@ hero:
 
 # About
 
-Welcome to Livecode.BLR! We are a bunch of nerds based out of Bangalore, India. This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative and Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3
+Livecode.BLR is a local node of [Algorave India](https://algorave.in/). This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative coders & Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3
 
-Livecode.BLR is a local node of [Algorave India](https://algorave.in/)
 
 
 # What is Livecoding?
