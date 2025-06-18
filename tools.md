@@ -25,6 +25,6 @@ Sonic Pi is a tool to create music using Ruby.
 Hydra is a "set of tools for livecoding networked visuals. Inspired by analog modular synthesizers, these tools are an exploration into using streaming over the web for routing video sources and outputs in realtime." [(GitHub)](https://github.com/ojack/hydra)
 
 
-### TouchDesigner (node-based) [Website] (https://derivative.ca/UserGuide/TouchDesigner)
+### TouchDesigner (node-based) [Website](https://derivative.ca/UserGuide/TouchDesigner)
 
 TouchDesigner is a node-based visual programming language for real-time interactive multimedia content
