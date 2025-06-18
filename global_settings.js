@@ -6,7 +6,8 @@ module.exports = {
   navLinks: [
     { path: "/members.html", title: "Directory" },
     { path: "/events.html", title: "Events" },
-    { path: "/contact.html", title: "Contact" }
+    { path: "/contact.html", title: "Contact" },
+    { path: "/tools.html", title: "Tools" }
 
   ],
   repository: "https://github.com/sangarshanan/livecode.blr"

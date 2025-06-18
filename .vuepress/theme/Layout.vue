@@ -22,6 +22,7 @@ import Footer from "./components/Footer.vue";
 import EventList from "./views/EventList.vue";
 import EventPage from "./views/EventPage.vue";
 import MemberList from "./views/MemberList.vue";
+import ToolList from "./views/ToolList.vue";
 
 import Page from "./views/Page.vue";
 
@@ -36,7 +37,8 @@ export default {
     Page,
     MemberList,
     EventList,
-    EventPage
+    EventPage,
+    ToolList
   },
   computed: {
     layout() {
@@ -48,6 +50,8 @@ export default {
         return "EventList";
       } else if (path.includes("/event")) {
         return "EventPage";
+      } else if (path.includes("/tools")) {
+        return "ToolList";
       }
       return "Page";
     }
