@@ -99,7 +99,7 @@ li a:hover {
 }
 
 li#logo img {
-  height: 2.44em;
+  height: 3.44em;
 }
 
 @media screen and (max-width: 600px) {
