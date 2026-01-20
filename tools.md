@@ -47,7 +47,7 @@ Hydra is a "set of tools for livecoding networked visuals. Inspired by analog mo
 
 TouchDesigner is a node-based visual programming language for real-time interactive multimedia content
 
-### VVVV (node-based) [Website]((https://vvvv.org/)
+### VVVV (node-based) [Website](https://vvvv.org/)
 
 vvvv is a visual-first live programming environment for the .NET ecosystem. Its language VL combines metaphors known from dataflow, functional and object oriented programming.
 
