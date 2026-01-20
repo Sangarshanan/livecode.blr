@@ -1,6 +1,6 @@
 ---
 name: George Panicker
-tools: TouchDesigner,Hardware,CustomSoftware
+tools: SuperCollider, GLSL, VVVV
 location: Bengaluru
 image: https://georgepanicker.netlify.app/authors/admin/avatar_huebbfad1edfa8e198fe68a27ac6a615ca_435662_270x270_fill_q75_lanczos_center.jpg
 links:
@@ -8,5 +8,5 @@ links:
     website: https://georgepanicker.neocities.org/
 ---
 
-Glitch Artist and Musician working across computational design, complexity theory, media art and  creative tech
+Computer Artist, Designer and Musician working across computational design, life sciences, media art and  creative tech
 
