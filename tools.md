@@ -38,9 +38,9 @@ Max, also known as Max/MSP/Jitter, is a visual programming language for music an
 
 VCV Rack is a free open-source virtual modular synthesizer: multiple modules can be connected to synthesize a sound. By default, the software contains several VCOs, LFOs, mixers, and other standard synthesizer modules. However, more can be added as plugins through the VCV Rack website. [(Wikipedia)](https://en.wikipedia.org/wiki/VCV_Rack)
 
-### PlugData (node-based) [Website](https://vcvrack.com/)
+### PlugData (node-based) [Website](https://plugdata.org/)
 
-Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin.
+Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData, but comes added with a host of new libraries and features, along with lua scripting. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin.
 
 
 <br/>
