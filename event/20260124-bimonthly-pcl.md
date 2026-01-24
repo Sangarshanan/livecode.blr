@@ -6,8 +6,8 @@ image: https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/ma
 ---
 
 
-We had our 2nd Bimonthly meeting at Papercrane labs Indiranagar!
+Woot Woot! We had our 2nd Bimonthly meeting at Papercrane labs Indiranagar.
 
-![Meetup Photo](https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/meetups/1.jpeg)
+<img src="https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/meetups/1.jpeg" alt="Meetup Photo" width="500" height="400" />
 
-We were joined by a couple of new folks today, as well as the regulars
+We were joined by a couple of new folks today, as well as the regulars :)
