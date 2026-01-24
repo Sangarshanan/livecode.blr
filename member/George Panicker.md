@@ -7,5 +7,5 @@ links:
     website: https://georgepanicker.neocities.org/
 ---
 
-Computer Artist, Designer and Musician working across computational design, life sciences, media art and  creative tech
+Computer Artist, Designer and Musician
 
