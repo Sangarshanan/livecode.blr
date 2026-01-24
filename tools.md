@@ -69,8 +69,9 @@ openFrameworks is an open source C++ toolkit for creative coding.
 p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language.
 <br/>
 ## Hardware
-<br/>
 Sometimes members use hardware units for sequencing, FX processing, sampling and convenience. Here are a few that we use.
+<br/>
+
 
 ### Teenage Engineering [Website](https://teenage.engineering/)
 Teenage engineering creates high quality, well designed, electronic products for all people who love sound and music, ranging from pocket samplers to boutique sequencers
