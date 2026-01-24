@@ -8,6 +8,6 @@ image: https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/ma
 
 We had our 2nd Bimonthly meeting at Papercrane labs Indiranagar!
 
-![Meetup Photo](https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/meetups/2.jpeg)
+![Meetup Photo](https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/meetups/1.jpeg)
 
 We were joined by a couple of new folks today, as well as the regulars
