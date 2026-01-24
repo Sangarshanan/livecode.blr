@@ -85,7 +85,7 @@ Behringer is an audio equipment company founded by the Swiss engineer Uli Behrin
 ### Elektron [Website](https://elektron.se/)
 Elektron is a company known for making bold and enduring electronic music instruments and technology, acclaimed for their creativity-unlocking potential, the most famous of these being the Digitakt, Octatrack and Digitone.
 <br/>
-## Hombrewed by livecode.blr
+## Homebrewed by livecode.blr
 We build our own tools when existing software/hardware feels inadequate. Here are some things we've made.
 <br/>
 ### Synthoor [Github](https://github.com/Sangarshanan/synthoor)
