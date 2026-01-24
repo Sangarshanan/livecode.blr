@@ -46,6 +46,7 @@ Plugdata is a free/open-source visual programming environment based on Miller Pu
 <br/>
 
 ## Visuals
+<br/>
 
 ### Hydra (JavaScript) [Website](https://github.com/ojack/hydra) [Editor](https://hydra-editor.glitch.me)
 
@@ -66,8 +67,9 @@ openFrameworks is an open source C++ toolkit for creative coding.
 
 ### P5.js (Javascript) [Website](https://p5js.org/)
 p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language.
-
+<br/>
 ## Hardware
+<br/>
 Sometimes members use hardware units for sequencing, FX processing, sampling and convenience. Here are a few that we use.
 
 ### Teenage Engineering [Website](https://teenage.engineering/)
@@ -81,3 +83,13 @@ Behringer is an audio equipment company founded by the Swiss engineer Uli Behrin
 
 ### Elektron [Website](https://elektron.se/)
 Elektron is a company known for making bold and enduring electronic music instruments and technology, acclaimed for their creativity-unlocking potential, the most famous of these being the Digitakt, Octatrack and Digitone.
+<br/>
+## Hombrewed by livecode.blr
+We build our own tools when existing software/hardware feels inadequate. Here are some things we've made.
+<br/>
+### Synthoor [Github](https://github.com/Sangarshanan/synthoor)
+A Toy Software Synth written in Python that alllows you to build your own synths
+### Rahasyn_ka [Github](https://github.com/heerdyes/rahasyn_ka)
+A table based esoSynth (esoteric Synthesizer)
+### MIDITwister Mk1 [instagram](https://www.instagram.com/p/DSjsXfpiTfN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+A 16 channel assignable midi controller 
