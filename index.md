@@ -7,7 +7,9 @@ hero:
 
 # About
 
-We are a group of artists , technologists and designers from Bangalore city focused on livecoding, computer music, hardware, audiovisual performance and all things generative. This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative coders & Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3. Livecode.blr is a local node of [Algorave India](https://algorave.in/).
+We are a group of artists , technologists and designers from Bangalore city focused on livecoding, computer music, hardware, audiovisual performance and all things generative. This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative coders & Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3.
+
+Livecode.blr is a local node of [Algorave India](https://algorave.in/).
 
 
 
