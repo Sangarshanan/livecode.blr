@@ -14,6 +14,9 @@
       <li class="link">
         <a :href="'//' + 'algorave.in'" target="_blank"> Algorave India </a>
       </li>
+      <li class="link">
+        <a :href="'//' + 'musictechcommunity.org'" target="_blank"> Music Tech India </a>
+      </li>
     </ul>
     <!-- TODO: figure out vue onclick stuff doesn't work, maybe client hydration? https://vuejs.org/guide/scaling-up/ssr.html#client-hydration -->
     <button
