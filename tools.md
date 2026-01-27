@@ -32,7 +32,7 @@ Csound is a domain-specific computer programming language for audio programming.
 
 ### MAX-MSP (node-based) [Website](https://cycling74.com/)
 
-Max, also known as Max/MSP/Jitter, is a visual programming language for music and multimedia developed and maintained by San Francisco-based software company Cycling '74. It consists of Max, the general purpose event scheduler; MSP, the DSP framework, Gen~, a low level programming language for signal processing that works with embedded devices like Daisy; Jitter, a visual and geometry programming environment based on OpenGL and RNBO, an add-on language for max that allows you to export max patches to a variety of systems such as Web, Raspberry Pi, VST3 and more. [(Wikipedia)](https://en.wikipedia.org/wiki/Max_(software))
+Max, also known as Max/MSP/Jitter, is a visual programming language for music and multimedia developed and maintained by San Francisco-based software company Cycling '74. It consists of Max, the general purpose event scheduler; MSP, the DSP framework; Gen~, a low level programming language for signal processing that works with embedded devices like Daisy; Jitter, a visual and geometry programming environment based on OpenGL and RNBO, an add-on language for max that allows you to export max patches to a variety of systems such as Web, Raspberry Pi, VST3 and more. [(Wikipedia)](https://en.wikipedia.org/wiki/Max_(software))
 
 ### VCV Rack (node-based) [Website](https://vcvrack.com/)
 
