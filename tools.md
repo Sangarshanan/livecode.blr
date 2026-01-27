@@ -27,7 +27,7 @@ A platform for audio synthesis and algorithmic composition, used by musicians, a
 
 ### Csound (C) [Website](https://csound.com/)
 
-Csound is a domain-specific computer programming language for audio programming. It is named Csound because it is written in the language C, in contrast to some of its predecessors. It consists of making sounds through an opcode framework, and certain frameworks such as cabbage allow you to make vst's and instruments out of Csound code. [(Wikipedia)](https://en.wikipedia.org/wiki/Csound)
+Csound is a domain-specific computer programming language for audio programming. It is named Csound because it is written in the language C, in contrast to some of its predecessors. It consists of making sounds through opcodes, and certain frameworks such as cabbage allow you to make vst's and instruments out of Csound code. [(Wikipedia)](https://en.wikipedia.org/wiki/Csound)
 
 
 ### MAX-MSP (node-based) [Website](https://cycling74.com/)
