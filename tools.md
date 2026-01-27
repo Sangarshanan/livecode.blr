@@ -63,10 +63,11 @@ vvvv is a visual-first live programming environment for the .NET ecosystem. Its 
 
 ### OpenFrameworks (C++) [Website](https://openframeworks.cc/)
 
-openFrameworks is an open source C++ toolkit for creative coding. It is one of the oldest creative coding frameworks out there that is still widely in use today.
+openFrameworks is an open source C++ toolkit for creative coding. It is one of the oldest creative coding frameworks out there that is still widely in use today. It was developed by famous creative coder Zachary Lieberman, now a professor at the MIT media lab and director of the future sketches group.
 
 ### P5.js (Javascript) [Website](https://p5js.org/)
 p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language. It is maintained and developed by the Processing foundation.
+
 <br/>
 ## Hardware
 Sometimes members use hardware units for sequencing, FX processing, sampling and convenience. Here are a few that we use.
@@ -80,7 +81,7 @@ Teenage engineering creates high quality, well designed, electronic products for
 Daisy is an embedded platform for music. It features everything you need for creating high fidelity audio hardware devices. 
 
 ### Behringer [Website](https://behringer.com/)
-Behringer is an audio equipment company founded by the Swiss engineer Uli Behringer on 25 January 1989 in Willich, Germany. Behringer produces equipment including synthesizers, mixers, audio interfaces and amplifiers. They are a popular vendor for much cheaper versions of older, now unavailable synths, one example being the ROland TB-303 that Behringer sells as the TD-3
+Behringer is an audio equipment company founded by the Swiss engineer Uli Behringer on 25 January 1989 in Willich, Germany. Behringer produces equipment including synthesizers, mixers, audio interfaces and amplifiers. They are a popular vendor for much cheaper versions of older, now unavailable synths, one example being the Roland TB-303.
 
 ### Elektron [Website](https://elektron.se/)
 Elektron is a company known for making bold and enduring electronic music instruments and technology, acclaimed for their creativity-unlocking potential, the most famous of these being the Digitakt, Octatrack and Digitone. The "elektron Sequencer" is considered one of the best hardware sequencers money can buy.
