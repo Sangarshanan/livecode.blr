@@ -3,7 +3,7 @@ title: Tools
 ---
 
 Some of these tools we use! Some of them are built by our community!
-
+<br/>
 ## Audio
 
 <br/>
@@ -69,10 +69,10 @@ openFrameworks is an open source C++ toolkit for creative coding. It is one of t
 p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language. It is maintained and developed by the Processing foundation.
 
 <br/>
+
 ## Hardware
 Sometimes members use hardware units for sequencing, FX processing, sampling and convenience. Here are a few that we use.
 <br/>
-
 
 ### Teenage Engineering [Website](https://teenage.engineering/)
 Teenage engineering creates high quality, well designed, electronic products for all people who love sound and music, ranging from pocket samplers to boutique sequencers. They are most known for the OP-1 and the Pocket Operator Series.
@@ -85,6 +85,7 @@ Behringer is an audio equipment company founded by the Swiss engineer Uli Behrin
 
 ### Elektron [Website](https://elektron.se/)
 Elektron is a company known for making bold and enduring electronic music instruments and technology, acclaimed for their creativity-unlocking potential, the most famous of these being the Digitakt, Octatrack and Digitone. The "elektron Sequencer" is considered one of the best hardware sequencers money can buy.
+
 <br/>
 ## Homebrewed by livecode.blr
 We build our own tools when existing software/hardware feels inadequate. Here are some things we've made.
