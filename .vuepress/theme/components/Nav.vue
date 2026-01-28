@@ -11,6 +11,7 @@
       <li class="link" v-for="(link, key) in navLinks" :key="link + key">
         <a :href="link.path">{{ link.title }}</a>
       </li>
+      <br>
       <li class="link">
         <a :href="'//' + 'algorave.in'" target="_blank"> Algorave India </a>
       </li>
