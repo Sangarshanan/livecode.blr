@@ -87,14 +87,3 @@ Behringer is an audio equipment company founded by the Swiss engineer Uli Behrin
 Elektron is a company known for making bold and enduring electronic music instruments and technology, acclaimed for their creativity-unlocking potential, the most famous of these being the Digitakt, Octatrack and Digitone. The "elektron Sequencer" is considered one of the best hardware sequencers money can buy.
 
 <br/>
-
-## Homebrewed by livecode.blr
-We build our own tools when existing software/hardware feels inadequate. Here are some things we've made.
-<br/>
-
-### Synthoor [Github](https://github.com/Sangarshanan/synthoor)
-A Toy Software Synth written in Python that alllows you to build your own synths
-### Rahasyn_ka [Github](https://github.com/heerdyes/rahasyn_ka)
-A table based esoSynth (esoteric Synthesizer)
-### MIDITwister Mk1 [instagram](https://www.instagram.com/p/DSjsXfpiTfN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-A 16 channel assignable midi controller 
