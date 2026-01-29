@@ -40,7 +40,7 @@ VCV Rack is a free open-source virtual modular synthesizer: multiple modules can
 
 ### PlugData (node-based) [Website](https://plugdata.org/)
 
-Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData, but comes added with a host of new libraries and features, along with lua scripting. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin. It can  export to VST3, CLAP or even raw C++ code, while also having the ability to compile patches to embedded platforms such as [Bela](https://bela.io/) or Daisy.
+Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData, but comes added with a host of new libraries and features, along with lua scripting. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin. It can  export to VST3, CLAP or even raw C++ code, while also having the ability to compile patches to embedded platforms such as <u>[Bela](https://bela.io/)<u> or Daisy.
 
 
 <br/>
