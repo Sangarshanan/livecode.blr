@@ -1,7 +1,7 @@
 ---
 title: 'Livecode.blr Bimonthly meetup #2'
 location: Papercrane Labs
-date: 2026-01-24 7:30 PM
+date: 2026-01-24 3:00 PM
 image: https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/meetups/2.jpeg
 ---
 
