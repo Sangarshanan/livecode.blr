@@ -2,7 +2,7 @@
 title: Homebrewed
 ---
 # Homebrewed by livecode.blr
-We build our own tools when existing software/hardware feels inadequate. Here are some things we've made.
+We're gearheads at heart, but we also build our own tools when existing software/hardware feels inadequate. Here are some things we've made.
 <br/>
 
 ## Synthoor [Github](https://github.com/Sangarshanan/synthoor)
