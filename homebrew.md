@@ -17,6 +17,6 @@ A table based esoSynth (esoteric Synthesizer)
 ## amUrtayantra [Github](https://github.com/heerdyes/amUrtayantra)
 a diminutive virtual machine with 95 character memory that you edit live to create sonic patches
 
-## MIDITwister Mk1 [instagram](https://www.instagram.com/p/DSjsXfpiTfN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+## MIDITwister Mk1 [instagram](https://www.instagram.com/p/DSjsXfpiTfN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) [demo](https://www.instagram.com/p/DSosIygCeFi/)
 A 16 channel assignable midi controller
 
