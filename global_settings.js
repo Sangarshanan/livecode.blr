@@ -2,7 +2,7 @@ module.exports = {
   title: "",
   description: "Directory",
   discord: "https://discord.gg/mz2mtxWtJ5",
-  airtable_form: "https://airtable.com/app1ABXyx1mUnMWil/pagkTzx3OwNlxvCdC/form",
+  airtable_form: "https://docs.google.com/forms/d/e/1FAIpQLSdc298kvIYf9z4wNx7_7ZE6aRwLorrYTGFyjZeUh_pkr3Ok5Q/viewform?usp=publish-editor",
   navLinks: [
     { path: "/members.html", title: "Directory" },
     { path: "/events.html", title: "Events" },
