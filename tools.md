@@ -2,7 +2,7 @@
 title: Tools
 ---
 
-Some of these tools we use! Some of them are built by our community!  You can find a more comprehensive list <u>[here](https://github.com/toplap/awesome-livecoding)<u>. We've also added tutorial links to tools that are beginner friendly and have strong documentation support.
+Some of these tools we use! Some of them are built by our community!  You can find a more comprehensive list <u>[here](https://github.com/toplap/awesome-livecoding)</u>. We've also added tutorial links to tools that are beginner friendly and have strong documentation support.
 <br/>
 ## Audio
 
