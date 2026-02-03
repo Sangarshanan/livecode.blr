@@ -16,7 +16,7 @@
     >
       <b style="color:var(--color);">Are you a creative coder from India?</b>
       Add yourself to the registry
-        <a :href="'//' + 'airtable.com/app1ABXyx1mUnMWil/pagkTzx3OwNlxvCdC/form'" class="underline"> here!! </a>
+        <a :href="'//' + 'forms.gle/Un5LZaFZ17oAQUJa7'" class="underline"> here!! </a>
     </div>
 
   </div>
