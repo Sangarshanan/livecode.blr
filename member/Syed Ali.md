@@ -2,7 +2,7 @@
 name: Syed Ali
 tools: Hardware,AI Models,CustomSoftware
 location: Bengaluru
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg
+image:https://drive.google.com/file/d/1p-KzcRQkQREerufUUawqiWBNre46Hv5K/view?usp=drive_link
 links:
     instagram: https://www.instagram.com/qaree.bi/
     website: https://qaree.bi
