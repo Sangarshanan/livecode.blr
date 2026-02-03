@@ -16,7 +16,7 @@ Sonic Pi is a tool to create music using Ruby.
 
 TidalCycles is a live coding environment designed for musical improvisation and composition. In particular, it is a domain-specific language embedded in Haskell, focused on the generation and manipulation of audible or visual patterns. TidalCycles was the Pet project of Alex Mclean (founder of Algorave) after he was inspired by South Indian Rhythm patterns implemented in the still ongoing Bol Processor Project.  [(Wikipedia)](https://en.m.wikipedia.org/wiki/TidalCycles)
 
-### Strudel (Javascript) [Website](https://strudel.cc) [Tutorials] (https://www.youtube.com/watch?v=sefJz9biLCY)
+### Strudel (Javascript) [Website](https://strudel.cc) [Tutorials](https://www.youtube.com/watch?v=sefJz9biLCY)
 
 A new live coding platform to write dynamic music pieces in the browser! It is free and open-source and made for beginners and experts alike.
 Based on TidalCycles' notation but javascript. It is used by the popular livecoding musicians SwitchAngel and DJDave. [(Website)](https://strudel.cc)
