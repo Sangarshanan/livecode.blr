@@ -1,6 +1,9 @@
 # Livecode BLR
 
-# adding a member
+We are a collective that practices and promotes live coding as a sound and visual creation technique, generating a technological appropriation through the use and development of free and open software focused on generating its own relationships and discourses.
+
+## Add a member
+
 * fork livecode.blr repo: https://github.com/Sangarshanan/livecode.blr
 * git clone to your system
 * git checkout -b `<thy_branch_name>`
@@ -21,7 +24,8 @@
 
 NOTE: install nvm first and use it to setup node/npm to save lifespan and prevent hair tearing troubleshooting sessions.
 
-## command line
+## Setup
+
 after git cloning as usual...
 
 ```sh
@@ -29,10 +33,13 @@ npm i -g vuepress
 yarn docs:start
 ```
 
-## troubleshooting
-### Cannot find module 'vue-template-compiler'
+## Troubleshooting
+
+Some setup issues you might encounter
+
+> Cannot find module 'vue-template-compiler'
 ```sh
 npm i vue-template-compiler
 ```
-NOTE: add your resolved setup issues to make future troubleshooting easier
 
+NOTE: add your resolved setup issues to make future troubleshooting easier for everyone :)
