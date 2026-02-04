@@ -1,6 +1,6 @@
 ---
 name: Carborg 
-tools: TouchDesigner
+tools: TouchDesigner, Hardware, Game Engine
 location: Mumbai
 image: https://i.ibb.co/mCdhqZCP/Vivek-profile.jpg
 links:
