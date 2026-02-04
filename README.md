@@ -2,7 +2,7 @@
 
 We are a collective that practices and promotes live coding as a sound and visual creation technique, generating a technological appropriation through the use and development of free and open software focused on generating its own relationships and discourses.
 
-## Add a member
+## Add yourself/ A Member
 
 * fork livecode.blr repo: https://github.com/Sangarshanan/livecode.blr
 * git clone to your system
@@ -17,14 +17,13 @@ We are a collective that practices and promotes live coding as a sound and visua
 * pester admin to merge PR
 * post merge, gawk at https://livecode-blr.vercel.app/members.html
 
-# dev setup
-## prerequisites
+## Setup locally
+
+Prerequisites
 * nodejs
 * npm
 
 NOTE: install nvm first and use it to setup node/npm to save lifespan and prevent hair tearing troubleshooting sessions.
-
-## Setup
 
 after git cloning as usual...
 
