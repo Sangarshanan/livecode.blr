@@ -1,37 +1,36 @@
 import os
-import requests
-from dotenv import load_dotenv
 
-load_dotenv()
+def readme():
+    msg = f"""
+---- - - - - - - - - - ----
+    initialize thyself!
+---- - - - - - - - - - ----
 
-AIRTABLE_API_KEY = os.environ.get("AIRTABLE_API_KEY")
+* fork livecode.blr repo:https://github.com/Sangarshanan/livecode.blr
+* git clone to your system
+* git checkout -b <thy_branch_name>
+* python populate_members.py (<- you are here)
+* enter details prompted by the script
+* edit generated markdown file till satisfaction ensues
+* git add thy files
+* git commit -m "thy commit msg"
+* git push -u origin <thy_branch_name>
+* raise pull request
+* pester admin to merge PR
+* post merge, gawk at https://livecode-blr.vercel.app/members.html
 
-BASE_ID = "app1ABXyx1mUnMWil"
+"""
+    print(msg)
 
-
-def fetch_member_data(record_id):
-    url = f"https://api.airtable.com/v0/app1ABXyx1mUnMWil/Directory/{record_id}"
-    headers = {"Authorization": f"Bearer {AIRTABLE_API_KEY}"}
-    response = requests.get(url, headers=headers)
-    return response.json()
-
-
-def fetch_all_records():
-    url = "https://api.airtable.com/v0/app1ABXyx1mUnMWil/Directory?view=Grid%20view"
-    headers = {"Authorization": f"Bearer {AIRTABLE_API_KEY}"}
-    response = requests.get(url, headers=headers)
-    return response.json()
-
-
-def populate_markdown_file(member_data):
-    name = member_data["fields"]["Name"]
-    location = member_data["fields"]["Location"]
-    tools = ",".join(member_data["fields"]["Tools"])
-    image = member_data["fields"].get("Image")
-    instagram = member_data["fields"].get("Instagram")
-    soundcloud = member_data["fields"].get("Soundcloud")
-    website = member_data["fields"].get("Website")
-    bio = member_data["fields"]["Bio"]
+def populate_markdown_file():
+    name = input('Name / alias: ')
+    location = input('Location (press enter to leave blank): ')
+    tools = input('Tools (comma separated): ')
+    image = input('Image link (press enter to leave blank): ')
+    instagram = input('Instagram (press enter to leave blank): ')
+    soundcloud = input('Soundcloud (press enter to leave blank): ')
+    website = input('Website (press enter to leave blank): ')
+    bio = input('Bio: ')
 
     links = []
     if instagram:
@@ -57,15 +56,16 @@ links:
     file_path = f"member/{name}.md"
     with open(file_path, "w") as file:
         file.write(content)
+        
+    return file_path
 
 
 def main():
-    records = fetch_all_records().get("records", [])
-    print(records)
-    for record in records:
-        member_data = fetch_member_data(record["id"])
-        if "fields" in member_data:
-            populate_markdown_file(member_data)
+    readme()
+    fp=populate_markdown_file()
+    
+    print(f"\nGreetings user, your markdown file is: {fp}")
+    print("Thank you!")
 
 
 if __name__ == "__main__":
