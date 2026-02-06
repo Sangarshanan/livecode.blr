@@ -40,7 +40,7 @@ VCV Rack is a free open-source virtual modular synthesizer: multiple modules can
 
 ### PlugData (node-based) [Website](https://plugdata.org/)
 
-Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData, but comes added with a host of new libraries and features, along with lua scripting. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin. It can  export to VST3, CLAP or even raw C++ code, while also having the ability to compile patches to embedded platforms such as <u>[Bela](https://bela.io/)</u> or <u>[Daisy](https://daisy.audio/hardware/Seed/#technical-specs)</u>.
+Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData, but comes added with a host of new libraries and features, along with lua scripting. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin. It can  export to VST3, CLAP or even raw C++ code, while also having the ability to compile patches to embedded platforms such as <u>[Bela](https://bela.io/)</u> or <u>[Daisy](https://daisy.audio/hardware/Seed/#technical-specs)</u>. 
 
 
 <br/>
@@ -66,7 +66,7 @@ vvvv is a visual-first live programming environment for the .NET ecosystem. Its 
 openFrameworks is an open source C++ toolkit for creative coding. It is one of the oldest creative coding frameworks out there that is still widely in use today. It was developed by famous creative coder Zachary Lieberman, now a professor at the MIT media lab and director of the future sketches group.
 
 ### P5.js (Javascript) [Website](https://p5js.org/)[Tutorials](https://www.youtube.com/watch?v=sefJz9biLCY)
-p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language. It is maintained and developed by the Processing foundation. With additonal extensions such as [P5Live](https://teddavis.org/p5live/), you can also use p5js as a live vjing environment.
+p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language. It is maintained and developed by the Processing foundation. With additonal extensions such as <u>[P5Live](https://teddavis.org/p5live/)</u>, you can also use p5js as a live vjing environment.
 
 <br/>
 
