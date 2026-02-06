@@ -19,7 +19,7 @@ TidalCycles is a live coding environment designed for musical improvisation and 
 ### Strudel (Javascript) [Website](https://strudel.cc) [Tutorials](https://www.youtube.com/watch?v=sefJz9biLCY)
 
 A new live coding platform to write dynamic music pieces in the browser! It is free and open-source and made for beginners and experts alike.
-Based on TidalCycles' notation but javascript. It is used by the popular livecoding musicians SwitchAngel and DJDave. [(Website)](https://strudel.cc). If you're not comfortable with text, there's also <u>[Strudel Flow](https://xyflow.com/strudel-flow)</u>.
+Based on TidalCycles' notation but javascript. It is used by the popular livecoding musicians SwitchAngel and DJDave. If you're not comfortable with text, there's also <u>[Strudel Flow](https://xyflow.com/strudel-flow)</u>.
 
 ### SuperCollider (SClang) [Website](https://supercollider.github.io)
 
