@@ -66,7 +66,7 @@ vvvv is a visual-first live programming environment for the .NET ecosystem. Its 
 openFrameworks is an open source C++ toolkit for creative coding. It is one of the oldest creative coding frameworks out there that is still widely in use today. It was developed by famous creative coder Zachary Lieberman, now a professor at the MIT media lab and director of the future sketches group.
 
 ### P5.js (Javascript) [Website](https://p5js.org/)[Tutorials](https://www.youtube.com/watch?v=sefJz9biLCY)
-p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language. It is maintained and developed by the Processing foundation.
+p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community, based on the Processing language. It is maintained and developed by the Processing foundation. With additonal extensions such as [P5Live](https://teddavis.org/p5live/), you can also use p5js as a live vjing environment.
 
 <br/>
 
