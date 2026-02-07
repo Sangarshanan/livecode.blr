@@ -5,7 +5,6 @@ location: Bengaluru
 image: 
 links:
     instagram: http://instagram.com/xxkir4nxx
-    website: 
     bandcamp: https://paeru.bandcamp.com/album/memory-log-221125
 ---
 
