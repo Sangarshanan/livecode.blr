@@ -8,7 +8,6 @@ module.exports = {
     { path: "/events.html", title: "Events" },
     { path: "/contact.html", title: "Contact" },
     { path: "/tools.html", title: "Tools" },
-    { path: "/homebrew.html", title: "Homebrewed" },
 
   ],
   repository: "https://github.com/sangarshanan/livecode.blr"
