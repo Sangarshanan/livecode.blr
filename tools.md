@@ -111,6 +111,9 @@ Daisy is an embedded platform for music. It features everything you need for cre
 ### Behringer [Website](https://behringer.com/)
 Behringer is an audio equipment company founded by the Swiss engineer Uli Behringer on 25 January 1989 in Willich, Germany. Behringer produces equipment including synthesizers, mixers, audio interfaces and amplifiers. They are a popular vendor for much cheaper versions of older, now unavailable synths, one example being the Roland TB-303.
 
+### Korg [Website](korg.com)
+KORG Inc., founded as Keio Electronic Laboratories, is a Japanese multinational corporation that manufactures electronic musical instruments, audio processors and guitar pedals, recording equipment, and electronic tuners. Under the Vox brand name, it also manufactures guitar amplifiers and electric guitars.
+
 ### Elektron [Website](https://elektron.se/)
 Elektron is a company known for making bold and enduring electronic music instruments and technology, acclaimed for their creativity-unlocking potential, the most famous of these being the Digitakt, Octatrack and Digitone. The "elektron Sequencer" is considered one of the best hardware sequencers money can buy.
 
