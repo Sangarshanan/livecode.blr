@@ -16,7 +16,7 @@ Livecode.blr is a local node of [Algorave India](https://algorave.in/).
 
 Livecoding is the practice of using computers and programming for artistic expression. While traditional music and visual production processes are effectively opaque, a key component to LiveCoding is transparency, displaying the code and interfaces that produce the sights and sounds in real time. Some guiding principles of our community include: Exposing algorithmic processes, challenging established institutions and hierarchies, collaborative efforts with other communities, equitable practices of diversity and inclusion, and making space for experimentation and failure. 
 
-If you find it difficult to visualize computer music/livecoding, we have a <u>[playlist of tracks](https://youtube.com/playlist?list=PLXAJ1F343qfwbrFqJUfssy4G7N5pgWzQc&si=aqPT0H2coNZ09VQM)</u> with <u>[track ID's](https://cryptpad.fr/pad/#/2/pad/view/RDhAu5eqeXgryPsOM9KdJBLY1AFCGs9A+z3hppQLi7s)</u> from one of our recent listening sessions to get you up to speed.You can also check out [Algorave India compilation 1](https://music.algorave.in/compilation-one/), which has contributions from some of our members.
+If you find it difficult to visualize computer music/livecoding, we have a <u>[playlist of tracks](https://youtube.com/playlist?list=PLXAJ1F343qfwbrFqJUfssy4G7N5pgWzQc&si=aqPT0H2coNZ09VQM)</u> with <u>[track ID's](https://drive.google.com/file/d/1NcOtH1AnULxPRwpj01-jADfIdhi2Oql0/view?usp=sharing)</u> from one of our recent listening sessions to get you up to speed.You can also check out [Algorave India compilation 1](https://music.algorave.in/compilation-one/), which has contributions from some of our members.
 
 # Diversity and Inclusion
 
