@@ -2,7 +2,7 @@
 name: Sanket Dutta
 tools: DAW, Python, Blender, Hardware, AI models
 location: Gurgaon
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg
 links:
 ---
  
