@@ -9,4 +9,4 @@ links:
     soundcloud: https://soundcloud.com/starzine
 ---
 
-Developer with a penchant for metal/industrial/EDM, live coding, live looping and hence being a "weekend warrior".
+sound, visual, nature, and tech enjoyer
