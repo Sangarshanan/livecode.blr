@@ -2,7 +2,7 @@
 name: Simar
 tools: DAW, Strudel, Touchdesigner, Digital Art
 location: Bengaluru
-image: https://drive.google.com/file/d/14A8lDZASxRGATH2OlmGUVDq6rcIDxh4R/view?usp=sharing
+image: https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/profilepic_livecode_simar.png
 links:
     instagram: https://www.instagram.com/hangingwave/
     website: https://laguna-dream.github.io/
