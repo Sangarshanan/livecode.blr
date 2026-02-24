@@ -2,7 +2,7 @@
 name: Nico
 tools: Python, Processing, Web, p5.js
 location: Bengaluru
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg
 links:
     instagram: https://www.instagram.com/my_stalker_is_spongebob/?utm_source=ig_web_button_share_sheet
     website: 
