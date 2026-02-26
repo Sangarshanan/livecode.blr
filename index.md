@@ -23,3 +23,8 @@ If you find it difficult to visualize computer music/livecoding, we have a <u>[p
 # Diversity and Inclusion
 
 Although we are a livecoding group, we are open to anybody with an interest in computer music, creative tech, the new media arts and generative design, whether they are curious beginners or hardened veterans. We aim to create a welcoming space for people from all backgrounds and walks of life regardless of origin. Feel free to attend a meeting and find out if it's for you!
+
+# Logo
+
+Our logo is directly inspired by "Kasuti", a centuries old hand-stitching and embroidery tradition from the Dharwad region of Karnataka. We chose this logo to not only represent our region i.e Karnataka but also to give visibility to the scores of computational artists from India whose practices preced our own yet do not get the recognition they deserve. Please support the rural women of Karnataka who keep this and other incredible computational crafts alive through buying Kasuti from artisanal retailers such as [Artikrafts](https://artikrafts.in/about-us.php) ,[Kasuti Kavana](https://kasutikavana.com/pages/about-us) and [Banjara Kasuti](https://banjarakasuti.com/)
+
