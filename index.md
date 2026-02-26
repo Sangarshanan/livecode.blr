@@ -26,7 +26,7 @@ Although we are a livecoding group, we are open to anybody with an interest in c
 
 # Logo
 
-Our logo is directly inspired by "Kasuti", a centuries old hand-stitching and embroidery tradition from the Dharwad region of Karnataka. We chose this logo to not only be true to where we come from, but to also give visibility to the scores of computational artists from India whose practices precede our own yet do not get the recognition they deserve as a consequence of lacking the economic support necessary to do so.
+Our logo is directly inspired by "Kasuti", a centuries old hand-stitching and embroidery tradition from the Dharwad region of Karnataka. We chose this logo to not only be true to where we come from, but to also give visibility to the scores of computational artists from India whose practices precede our own yet do not get the recognition they deserve as a consequence of lacking the economic support necessary.
 
 Please support the working rural women of Karnataka who keep this and other incredible computational crafts alive through buying Kasuti from artisanal retailers such as [Artikrafts](https://artikrafts.in/about-us.php) , [Kasuti Kavana](https://kasutikavana.com/pages/about-us) and [Banjara Kasuti](https://banjarakasuti.com/).
 
