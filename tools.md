@@ -28,6 +28,9 @@ A diminutive virtual machine with 95 character memory that you edit live to crea
 ### MIDITwister Mk1 [instagram](https://www.instagram.com/p/DSjsXfpiTfN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) [demo](https://www.instagram.com/p/DSosIygCeFi/)
 A 16 channel assignable midi controller
 
+### MayaFlux [Website](https://mayaflux.org/)
+Mayaflux is a c++ based computer art, music and livecoding environment designed to bypass the philosophical and architectural limitations of existing creative coding tools, and is built to make sure audio/visual outputs come from the same computational datastream.
+
 <br/>
 
 ## Made around the world, Used by us
