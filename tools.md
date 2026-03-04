@@ -29,7 +29,7 @@ A diminutive virtual machine with 95 character memory that you edit live to crea
 A 16 channel assignable midi controller
 
 ### MayaFlux [Website](https://mayaflux.org/)
-Mayaflux is a c++ based computer art, music and livecoding environment designed to bypass the philosophical and architectural limitations of existing livecoding tools, and is built to make sure audio/visual outputs come from the same computational datastream.
+A c++ based computer art, music and livecoding environment designed to bypass the philosophical and architectural limitations of existing livecoding tools.
 
 <br/>
 
