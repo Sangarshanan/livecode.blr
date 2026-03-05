@@ -31,6 +31,9 @@ A 16 channel assignable midi controller
 ### MayaFlux [Website](https://mayaflux.org/)
 A c++ based computer art, music and livecoding environment designed to bypass the philosophical and architectural limitations of existing livecoding tools.
 
+### Elektron NRPN Quark [Gitlab](https://gitlab.com/georgepanicker/elektronNRPN/)
+A SuperCollider livecoding library for algorithmically sequencing and  modulating parameters realtime per track on your Elektron device directly from the SuperCollider IDE.
+
 <br/>
 
 ## Made around the world, Used by us
