@@ -76,7 +76,7 @@ VCV Rack is a free open-source virtual modular synthesizer: multiple modules can
 
 Plugdata is a free/open-source visual programming environment based on Miller Puckette's software environment PureData, but comes added with a host of new libraries and features, along with lua scripting. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin. It can  export to VST3, CLAP or even raw C++ code, while also having the ability to compile patches to embedded platforms such as <u>[Bela](https://bela.io/)</u> or <u>[Daisy](https://daisy.audio/hardware/Seed/#technical-specs)</u>. 
 
-### BespokeSynth (node-based/Python) [Website](https://www.bespokesynth.com/)
+### BespokeSynth (node-based/Python) [Website](https://www.bespokesynth.com/)[Tutorials](https://youtube.com/playlist?list=PLZYD2Edyty0A1P6Ct61SQhD2PjZZD3oKy&si=8Qha8GE-GKWla9dJ)
 
 Created  by Unreal MetaSounds' lead developer, BespokeSynth is a free "modular DAW" that allows you to connect sound modules and features around 190 different ways to do so, including contributions by people such as Olivia Jack of Hydra. BespokeSynth also features a python livecoding interface to use, as well as an oscilloscope background visualizer. 
 
