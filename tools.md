@@ -32,7 +32,7 @@ A 16 channel assignable midi controller
 A c++ based computer art, music and livecoding environment designed to bypass the philosophical and architectural limitations of existing livecoding tools.
 
 ### Elektron NRPN Quark [Gitlab](https://gitlab.com/georgepanicker/elektronNRPN/)
-A SuperCollider livecoding library for algorithmically sequencing and  modulating parameters realtime per track on your Elektron device directly from the SuperCollider IDE.
+A SuperCollider livecoding library for algorithmically sequencing and  modulating parameters realtime per track on your Elektron device via Non-Registered-Parameter-Numbers
 
 <br/>
 
