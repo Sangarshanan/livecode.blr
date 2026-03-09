@@ -28,7 +28,7 @@ A diminutive virtual machine with 95 character memory that you edit live to crea
 ### MIDITwister Mk1 [instagram](https://www.instagram.com/p/DSjsXfpiTfN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) [demo](https://www.instagram.com/p/DSosIygCeFi/)
 A 16 channel assignable midi controller
 
-### MayaFlux [Website](https://mayaflux.org/)
+### MayaFlux [Website][(https://mayaflux.org/posters/cpponline-2026/)
 A c++ based computer art, music and livecoding environment designed to bypass the philosophical and architectural limitations of existing livecoding tools.
 
 ### Elektron NRPN Quark [Gitlab](https://gitlab.com/georgepanicker/elektronNRPN/)
