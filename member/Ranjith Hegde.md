@@ -2,7 +2,7 @@
 name: Ranjith Hegde
 tools: Blender, Mayaflux, Shaders, Game Engine, FAUST
 location: Bidarkan
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg
 links:
     website: https://mayaflux.org
 ---
