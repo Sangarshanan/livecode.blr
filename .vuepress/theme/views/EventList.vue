@@ -48,7 +48,8 @@ export default {
     pastEvents() {
       let myevents = this.$site.pages.filter(page => {
         const correctPage = page.path.includes("/event/") && !page.path.includes("blank.html");
-        const eventPast = new Date() > new Date(page.frontmatter.date?.split(" ")[0]);
+        const dateStr = typeof page.frontmatter.date === 'string' ? page.frontmatter.date : '';
+        const eventPast = dateStr ? (new Date() > new Date(dateStr.split(" ")[0])) : false;
         return correctPage && eventPast;
       });
 
@@ -57,7 +58,8 @@ export default {
     upcomingEvents() {
       let myevents = this.$site.pages.filter(page => {
         const correctPage = page.path.includes("/event/") && !page.path.includes("blank.html");
-        const eventPast = new Date() > new Date(page.frontmatter.date?.split(" ")[0]);
+        const dateStr = typeof page.frontmatter.date === 'string' ? page.frontmatter.date : '';
+        const eventPast = dateStr ? (new Date() > new Date(dateStr.split(" ")[0])) : false;
         return correctPage && !eventPast;
       });
 
@@ -67,8 +69,8 @@ export default {
   methods: {
      sortDates(arr) {
        arr.sort(function(a, b) {
-         var dateA = new Date(a.frontmatter.date.split(" ")[0]),
-         dateB = new Date(b.frontmatter.date.split(" ")[0]);
+         var dateA = new Date((typeof a.frontmatter.date === 'string' ? a.frontmatter.date : '').split(" ")[0]),
+         dateB = new Date((typeof b.frontmatter.date === 'string' ? b.frontmatter.date : '').split(" ")[0]);
          if (dateA < dateB)
            //sort string ascending
            return -1;
@@ -78,7 +80,10 @@ export default {
        return arr;
     },
     dateFormat(_date) {
-      let date = new Date(_date.split(" ")[0]).toUTCString().split(" ");
+      let date = [];
+      if (typeof _date === 'string' && _date.length > 0) {
+        date = new Date(_date.split(" ")[0]).toUTCString().split(" ");
+      }
       let weekday = date[0].replace(/,/g, "");
       let month = date[2];
       let day = date[1] < 10 ? date[1].slice(1) : date[1];
