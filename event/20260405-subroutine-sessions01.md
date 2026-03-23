@@ -1,7 +1,7 @@
 ---
 title: 'SubRoutine Sessions 00'
 location: Concept01
-date: 2025-04-05 6:00 PM
+date: 2026-04-05 6:00 PM
 link: https://forms.gle/tJNfPtmsNEdEzWFA8
 image: https://raw.githubusercontent.com/Sangarshanan/livecode.blr/refs/heads/main/image/altfest-2024.png
 ---
