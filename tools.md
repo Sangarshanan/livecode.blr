@@ -35,7 +35,7 @@ A c++ based computer art, music and livecoding environment designed to bypass th
 A SuperCollider library for frictionless livecoding, algorithmic sequencing and computer music experiments on Elektron devices
 
 ### PatchWork [Github](https://github.com/openblocks-project/patchwork)
-A node-based visual programming environment built with Rust and egui. Connect nodes to build data pipelines route numbers through math, load and edit files, WGSL shaders, MIDI, OSC, Serial, custom scripts, and more. Everything is a node as much as possible.
+A node-based visual programming environment built with Rust and egui. Connect nodes to build data pipelines, route numbers through math, load and edit files, WGSL shaders, MIDI, OSC, Serial, custom scripts, and more. Everything is a node as much as possible.
 
 <br/>
 
