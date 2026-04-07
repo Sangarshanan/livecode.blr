@@ -23,7 +23,9 @@ If you find it difficult to visualize computer music/livecoding, we have a <u>[p
 
 # Diversity and Inclusion
 
-Although we are a livecoding group, we are open to anybody with an interest in computer music, creative tech, the new media arts and generative design, whether they are curious beginners or hardened veterans. We aim to create a welcoming space for people from all backgrounds and walks of life regardless of origin. Feel free to attend a meeting and find out if it's for you!
+Although we are a livecoding group, we are open to anybody with an interest in computer music, creative tech, the new media arts and generative design, whether they are curious beginners or hardened veterans. We aim to create a welcoming space for people from all backgrounds and walks of life regardless of origin, and are always looking to platform people from underrepresented backgrounds in the computational arts. Feel free to attend a meeting and find out if it's for you!
+
+If you want to attend one of our events for strictly educational purposes and you belong to a marginalised/severely repressed caste/scheduled tribe or similarly financially backward community in India, please message us and we will be happy to work out any form of financial assistance deemed necessary.
 
 # Logo
 
