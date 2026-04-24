@@ -8,7 +8,6 @@ module.exports = {
     { path: "/events.html", title: "Events" },
     { path: "/contact.html", title: "Contact" },
     { path: "/tools.html", title: "Tools" },
-    { path: "https://www.youtube.com/@livecodeblr", title: "Youtube"}
   ],
   repository: "https://github.com/sangarshanan/livecode.blr"
 };
