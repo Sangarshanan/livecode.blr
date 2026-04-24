@@ -4,6 +4,8 @@
       <h3>Social</h3>
       <ul>
         <a href="https://instagram.com/livecode.blr">Instagram</a>
+        
+        <a href="https://www.youtube.com/@livecodeblr">Youtube</a>
       </ul>
     </div>
     <div>
