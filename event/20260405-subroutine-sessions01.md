@@ -11,10 +11,11 @@ Livecode BLR is excited to announce the launch of SubRoutine Sessions at Concept
 <video src="https://github.com/Sangarshanan/livecode.blr/raw/refs/heads/main/image/meetups/subroutine-sessions-ep00.mp4
 "></video>
 
-This edition is featuring 10 talented artists showcasing their love for computer-generated audiovisuals. Get ready to dance to algorithmic beats and experience live coded performances!
-
-Expect a night of energetic performances, creative coding, and a dance floor driven by the sounds & visuals of computers and code. All are welcome! Come move, listen, and algorave!
+This edition featured 10 talented artists showcasing their love for computer-generated audiovisuals.
+Videos are up on Youtube, and we have a few of our members write some reflections on their time.
+[Ranjith's blog post](https://dev.to/ranjith_hegde_c16ab34bae3/live-coding-in-c-is-difficult-but-not-impossible-1cpa)
+[Azan's blog post](https://azan-n.com/notes/20260406-subroutine-sessions--koramangala-bangalore/)
 
 -> **Venue:** Concept01
 
-**Register now:** [https://forms.gle/tJNfPtmsNEdEzWFA8](https://forms.gle/tJNfPtmsNEdEzWFA8)
+
