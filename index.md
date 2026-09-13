@@ -12,7 +12,7 @@ We are a collective of artists , technologists and designers from Bangalore city
 Livecode.blr is a local node of [Algorave India](https://algorave.in/) and part of the global [TOPLAP](https://blog.toplap.org/about/) network.
 
 
-# What is Livecoding? What is computer art and music?
+# What is Livecoding? What is Computer Art and Music?
 
 “Livecoders are basically performing by writing computer programs live on stage, while the programs are generating their art – whether that’s visuals or music. Their computer screens are projected, so that the audience can see the code being manipulated. But the focus is on the music, on people dancing and seriously enjoying themselves”- Alex Mclean, founder of Algorave and developer of TidalCycles.
 
