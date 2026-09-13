@@ -12,9 +12,14 @@ We are a collective of artists , technologists and designers from Bangalore city
 Livecode.blr is a local node of [Algorave India](https://algorave.in/) and part of the global [TOPLAP](https://blog.toplap.org/about/) network.
 
 
-# What is Livecoding?
+# What is Livecoding? What is computer art and music?
 
-Livecoding is the practice of using computers and programming for artistic expression. While traditional music and visual production processes are effectively opaque, a key component to LiveCoding is transparency, displaying the code and interfaces that produce the sights and sounds in real time. Some guiding principles of our community include: Exposing algorithmic processes, challenging established institutions and hierarchies, collaborative efforts with other communities, equitable practices of diversity and inclusion, and making space for experimentation and failure.
+“Livecoders are basically performing by writing computer programs live on stage, while the programs are generating their art – whether that’s visuals or music. Their computer screens are projected, so that the audience can see the code being manipulated. But the focus is on the music, on people dancing and seriously enjoying themselves”- Alex Mclean, founder of Algorave and developer of TidalCycles.
+
+Livecoding is a form of performance art in which computer programs are written, modified, and executed in real time to produce music, visuals, or other forms of computational media. The code itself becomes part of the performance: audiences can often see the programmer's screen as the work is being created and transformed live. Livecoding sits at the intersection of computer programming, art, music, free and open-source software (FOSS), hacker culture, and new media. It treats code not simply as a tool for producing a finished work, but as a medium for improvisation, experimentation, and performance. It is also part of the broader fields of Computer Art and Computer Music.
+
+The distinction is subtle but important. Art and music made with computers can use a computer simply as a production or recording tool. Computer Art and Computer Music, by contrast, explore computation itself as an artistic and musical medium—using algorithms, procedural systems, generative processes, interaction, data, and the particular properties of computational systems to create works that would not exist in quite the same way without them.
+
 
 # Listen, read and explore
 
