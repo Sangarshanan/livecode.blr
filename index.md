@@ -34,7 +34,7 @@ If you want to attend one of our events for strictly educational purposes and yo
 
 # Logo
 
-Our logo is directly inspired by ["Kasuti"](https://en.wikipedia.org/wiki/Kasuti), a centuries old hand-stitching and embroidery tradition from the Dharwad region of Karnataka. We chose this logo to not only be true to where we come from, but to also give visibility to the scores of computational artists from India whose practices precede our own yet do not get the recognition they deserve as a consequence of lacking the economic support necessary.
+Our logo is directly inspired by ["Kasuti"](https://en.wikipedia.org/wiki/Kasuti), a centuries old hand-stitching and embroidery tradition from the Dharwad region of Karnataka. We chose this logo to not only be true to where we come from, but to also give visibility to the scores of computational artists from India whose practices precede our own yet do not get the recognition they deserve as a consequence of lacking the economic support necessary. You can learn more about the history of this dying craft and the challenges its last artisans face in this short [Youtube Documentary](https://www.youtube.com/watch?v=70RD6wINAG8))
 
 Please support the rural working women of Karnataka who keep this and other incredible computational crafts alive by purchasing Kasuti from artisanal retailers such as [Artikrafts](https://artikrafts.in/about-us.php) , [Kasuti Kavana](https://kasutikavana.com/pages/about-us), [Banjara Kasuti](https://banjarakasuti.com/) or directly at the Cauvery Handicrafts Emporium on MG road.
 
