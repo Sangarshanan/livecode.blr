@@ -26,6 +26,7 @@
     "ics": "^2.35.0",
     "moment": "^2.29.3",
     "moment-timezone": "^0.5.34",
+    "vue-template-compiler": "^2.7.16",
     "yaml": "^2.1.0"
   },
   "devDependencies": {
