@@ -4,7 +4,7 @@ tools: SuperCollider, GLSL, VVVV
 location: Bengaluru
 image: https://www.goethe.de/resources/files/jpg1394/george-panicker-v1-formatkey-jpg-w320r.jpg
 links:
-    website: https://georgepanicker1.neocities.org/
+    website: https://wired.neocities.org/
 ---
 
 Mostly Computer Artist , occasionally Computer Musician
