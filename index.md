@@ -7,7 +7,11 @@ hero:
 
 # About
 
-We are a collective of artists , technologists and designers from Bangalore city focused on livecoding, computer music, hardware, audiovisual performance and all things generative. This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative coders & Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3.
+We are a collective of artists , technologists and designers from Bangalore city focused on livecoding, computer music, hardware, audiovisual performance and all things generative. We believe that the computer is the greatest thing that humankind has ever invented, and we believe in  its infinite potential to extend human creativity beyond all limits, as well as to reach the deepest parts of the humman soul when put to effective use: by well designed tools, well engineered frameworks and well established praxes.
+
+As such, we seek to build a culture around compute: one that rewards human ingenuity, human expression and human collaboration; a culture that encourages experimentation over perfection, participation over spectatorship, and making over consumption. A place where we can put ourselves out there — to perform, to experiment, to fail, to learn, to collaborate, to make strange things and to break them apart again. We want to build the tools, practices and communities that allow people to discover what they can do with computers — and, perhaps more importantly, what computers can allow us to become, when we choose to come together.
+
+This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative coders & Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3.
 
 Livecode.blr is a local node of [Algorave India](https://algorave.in/) and part of the global [TOPLAP](https://blog.toplap.org/about/) network.
 
