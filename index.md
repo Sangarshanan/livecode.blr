@@ -8,7 +8,7 @@ hero:
 # About
 We are a collective of artists, technologists and designers from Bangalore City focused on livecoding, computer music, hardware, audiovisual performance and all things generative.
 
-We believe in two fundamental facts: that the computer is the greatest thing that humankind has ever invented, and that it possesses an infinite potential to extend human creativity, imagination and expression beyond all limits, through well-designed tools, well-engineered frameworks and well-established praxes. As such, we seek to build a culture around compute: one that rewards human ingenuity, human expression and human collaboration. Perhaps more importantly, we want to see what computers can allow us to become when we come together as one. 
+We believe in two fundamental facts: that the computer is the greatest thing humankind has ever invented, and that it possesses an infinite potential to extend human creativity, imagination and expression beyond all limits, through well-designed tools, well-engineered frameworks and well-established praxes. As such, we seek to build a culture around compute: one that rewards human ingenuity, human expression and human collaboration. Perhaps more importantly, we want to see what computers can allow us to become when we come together as one. 
 
 This website is an attempt to consolidate our Meetups/ Jams and to create a **Directory of Creative coders & Livecoders from India** to help anyone looking for like-minded people to collaborate, build, host events, [algoraves](https://en.wikipedia.org/wiki/Algorave) and more <3. Livecode.blr is a local node of [Algorave India](https://algorave.in/) and part of the global [TOPLAP](https://blog.toplap.org/about/) network.
 
