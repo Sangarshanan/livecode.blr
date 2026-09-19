@@ -59,3 +59,4 @@ Just the maps link: [https://maps.app.goo.gl/efz6GKbSpwk3yhNU9](https://maps.app
 Many thanks to:
 - [bigfoot.land](https://www.bigfoot.land/) for helping out with digital payment infrastructure!
 - Shivhari and The Burrow for making space and time for us!
+- Blossom Book House and Karuna Kara Uncle for graciously selling his CRT TV from the Store for our gig. Uncle only sold us the TV because he "wanted it to go to the right person" and hearing about livecode.blr's antics convinced him to make the sale.. 
