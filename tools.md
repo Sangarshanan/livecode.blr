@@ -37,6 +37,9 @@ A SuperCollider library for frictionless livecoding, algorithmic sequencing and 
 ### PatchWork [Github](https://github.com/openblocks-project/patchwork)
 A node-based visual programming environment built with Rust and egui. Connect nodes to build data pipelines, route numbers through math, load and edit files, WGSL shaders, MIDI, OSC, Serial, custom scripts, and more. Everything is a node as much as possible.
 
+### Whisk [Github](https://github.com/jnsaksham/whisk)
+Turn your iPad into a knob controller for Strudel and mix your tracks live.
+
 <br/>
 
 ## Made around the world, Used by us
